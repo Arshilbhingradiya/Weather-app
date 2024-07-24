@@ -8,7 +8,7 @@ Display current weather conditions including temperature, humidity, and weather 
 Responsive design for mobile and desktop views
 
 # Technologies Used
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 OpenWeatherMap API
